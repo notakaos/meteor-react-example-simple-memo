@@ -1,5 +1,5 @@
 {
-  "name": "meteor-react-example-simple-memo",
+  "name": "meteor-simple-memo-app",
   "description": "",
   "scripts": {},
   "env": {
@@ -19,4 +19,3 @@
     {
       "url": "https://github.com/AdmitHub/meteor-buildpack-horse.git"
     }
-  
