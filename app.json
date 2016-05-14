@@ -1,7 +1,7 @@
 {
-  "name": "meteor-react-example-simple-memo",
-  "description": "",
-  "scripts": {},
+  "name": "meteor-simple-memo-app",
+  "scripts": {
+  },
   "env": {
     "ROOT_URL": {
       "required": true
@@ -19,4 +19,5 @@
     {
       "url": "https://github.com/AdmitHub/meteor-buildpack-horse.git"
     }
-  
+  ]
+}
