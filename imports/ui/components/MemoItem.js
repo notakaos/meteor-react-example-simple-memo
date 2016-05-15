@@ -47,7 +47,7 @@ export default class MemoItem extends React.Component {
           className="textarea"
           value={textAreaValue}
           onChange={this.onChange}
-          minRows={7}
+          minRows={3}
         />
       </div>
     );
