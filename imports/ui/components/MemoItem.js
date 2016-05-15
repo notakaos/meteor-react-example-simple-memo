@@ -39,7 +39,7 @@ export default class MemoItem extends React.Component {
     const { memo } = this.props;
     const { textAreaValue } = this.state;
     return (
-      <div className="memo-item">
+      <div className="memo-item is-color-green">
         <a href="#" onClick={this.onClick} className="remove-button">
           &times;
         </a>
